@@ -1,0 +1,2 @@
+# random_music_plugin_for_majsoul_plus
+雀魂plus随机bgm插件
