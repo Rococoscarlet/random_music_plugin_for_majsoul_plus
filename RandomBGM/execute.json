@@ -1,0 +1,8 @@
+{
+  "name": "Random Music",
+  "author": "Roscar",
+  "description": "随机播放背景音乐",
+  "preview": "/preview.jpg",
+  "entry": "script.js",
+  "sync": false
+}

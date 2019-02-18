@@ -1,0 +1,8 @@
+{
+  "data": {
+    "lobby.mp3": ["Phantom.mp3", "WillPower.mp3"],
+    "game.mp3": ["Phantom.mp3", "WillPower.mp3"],
+    "liqi1.mp3": ["FirewallDragon.mp3", "YuuseiTheme.mp3"],
+    "liqi2.mp3": ["FirewallDragon.mp3", "YuuseiTheme.mp3"]
+  }
+}
